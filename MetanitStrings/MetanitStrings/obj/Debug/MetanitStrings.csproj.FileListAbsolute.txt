@@ -1,0 +1,6 @@
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\bin\Debug\MetanitStrings.exe
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\bin\Debug\MetanitStrings.pdb
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\obj\Debug\MetanitStrings.csproj.AssemblyReference.cache
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\obj\Debug\MetanitStrings.csproj.CoreCompileInputs.cache
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\obj\Debug\MetanitStrings.exe
+C:\Users\metlikina\RiderProjects\MetanitStrings\MetanitStrings\obj\Debug\MetanitStrings.pdb
