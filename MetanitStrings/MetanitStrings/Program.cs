@@ -18,7 +18,7 @@ namespace MetanitStrings
             var a = var1;
             Console.WriteLine(a);
 
-            // Вывести результат того, что поменялось (измененной переменной)
+           
         }
         // private static void Change(int var1)
         // {
