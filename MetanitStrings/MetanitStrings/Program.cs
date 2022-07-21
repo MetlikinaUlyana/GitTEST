@@ -7,8 +7,8 @@ namespace MetanitStrings
     {
         public static void Main(string[] args)
         {
-            int a = 10;
-            int b = 5;
+            int a = 30;
+            int b = 31;
             Console.WriteLine(a);
             Print(11, b);
         }
