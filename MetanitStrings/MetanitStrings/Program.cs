@@ -1,25 +1,26 @@
 ﻿using System;
 using System.Linq;
 
-// namespace MetanitStrings
-// {
-//     public static class Program
-//     {
-//         public static void Main(string[] args)
-//         {
-//             int a = 30;
-//             int b = 31;
-//             Console.WriteLine(a);
-//             Print(11, b);
-//         }
-//
-//         public static void Print(int var1, int b)
-//         {
-//             var a = var1;
-//             Console.WriteLine(a);
-//
-//            
-//         }
+namespace MetanitStrings
+{
+    public static class Program
+    {
+        public static void Main(string[] args)
+        {
+            // ПОМЕНЯЛИ В МАСТЕРЕ
+            int a = 1000;
+            int b = 31;
+            Console.WriteLine(a);
+            Print(11, b);
+        }
+
+        public static void Print(int var1, int b)
+        {
+            var a = var1;
+            Console.WriteLine(a);
+
+           
+        }
     //     // private static void Change(int var1)
     //     // {
     //     //     a = var1;
