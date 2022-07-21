@@ -8,6 +8,7 @@ namespace MetanitStrings
         public static void Main(string[] args)
         {
             // ПОМЕНЯЛИ В МАСТЕРЕ
+            // НЕЛЕПЫЙ КОММИТ
             int a = 1000;
             int b = 31;
             Console.WriteLine(a);
