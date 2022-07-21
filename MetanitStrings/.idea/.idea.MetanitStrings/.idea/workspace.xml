@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f0de0-aa19-4252-80b4-4f4de4892922" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.pdb" afterDir="false" />
@@ -101,5 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add git ignore" />
   </component>
 </project>

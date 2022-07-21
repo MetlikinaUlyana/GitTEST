@@ -1,9 +1,0 @@
-*.suo
-*.user
-*.sln.cache
-*/build
-*/[Dd]ebug/
-*/[Rr]elease/
-*/[Bb]in/
-*/[Oo]bj/
-.idea/
