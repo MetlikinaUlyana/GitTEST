@@ -9,6 +9,7 @@ namespace MetanitStrings
         {
             // ПОМЕНЯЛИ В МАСТЕРЕ
             // НЕЛЕПЫЙ КОММИТ
+            // НЕЛЕПЫЙ КОММИТ2
             int a = 1000;
             int b = 31;
             Console.WriteLine(a);
