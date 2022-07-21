@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f0de0-aa19-4252-80b4-4f4de4892922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MetanitStrings/GIT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MetanitStrings/MetanitStrings.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/MetanitStrings.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MetanitStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/bin/Debug/MetanitStrings.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetanitStrings/obj/Debug/MetanitStrings.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +31,7 @@
       <option value="$PROJECT_DIR$/MetanitStrings/Program.cs" />
       <option value="$PROJECT_DIR$/MetanitStrings/StringsClass.cs" />
       <option value="$PROJECT_DIR$/MetanitStrings/GIT.cs" />
+      <option value="$PROJECT_DIR$/.gitignore" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2C724TNseJN2xPtMSQ9IqF4ccNz" />
@@ -68,6 +78,7 @@
       <updated>1658139112418</updated>
       <workItem from="1658139116727" duration="289000" />
       <workItem from="1658321796375" duration="1470000" />
+      <workItem from="1658395376689" duration="974000" />
     </task>
     <servers />
   </component>
@@ -86,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
