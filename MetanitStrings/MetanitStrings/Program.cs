@@ -1,26 +1,26 @@
 ﻿using System;
 using System.Linq;
 
-// namespace MetanitStrings
-// {
-//     public static class Program
-//     {
-//         public static void Main(string[] args)
-//         {
-//             int a = 30;
-//             int b = 31;
-//             Console.WriteLine(a);
-//             Print(11, b);
-//         }
-//
-//         public static void Print(int var1, int b)
-//         {
-//             var a = var1;
-//             Console.WriteLine(a);
-//
-//            
-//         }
-    //     // private static void Change(int var1)
+namespace MetanitStrings
+{
+    public static class Program
+    {
+        public static void Main(string[] args)
+        {
+            // ИЗМЕНЕННАЯ ВЕТКА
+            int a = 30;
+            int b = 31;
+            Console.WriteLine(a);
+            Print(11, b);
+        }
+
+        public static void Print(int var1, int b)
+        {
+            var a = var1;
+            Console.WriteLine(a);
+           
+        }
+        //     // private static void Change(int var1)
     //     // {
     //     //     a = var1;
     //     //     // b = var2;
@@ -70,14 +70,14 @@ using System.Linq;
 
 
      // 2. Создать класс с двумя переменными. Добавить конструктор с входными параметрами. Добавить конструктор, инициализирующий члены класса по умолчанию.
-     
-     class Program
-     {
-         public static void Main(string[] args)
-         {
-             Exercise2 ex2 = new Exercise2();
-         }
-     }
+     //
+     // class Program
+     // {
+     //     public static void Main(string[] args)
+     //     {
+     //         Exercise2 ex2 = new Exercise2();
+     //     }
+     // }
 
      public class Exercise2
      {
