@@ -7,8 +7,8 @@ namespace MetanitStrings
     {
         public static void Main(string[] args)
         {
-            // ИЗМЕНЕННАЯ ВЕТКА
-            int a = 30;
+            // ПОМЕНЯЛИ В МАСТЕРЕ
+            int a = 1000;
             int b = 31;
             Console.WriteLine(a);
             Print(11, b);
@@ -18,9 +18,10 @@ namespace MetanitStrings
         {
             var a = var1;
             Console.WriteLine(a);
+
            
         }
-        //     // private static void Change(int var1)
+    //     // private static void Change(int var1)
     //     // {
     //     //     a = var1;
     //     //     // b = var2;
@@ -70,14 +71,14 @@ namespace MetanitStrings
 
 
      // 2. Создать класс с двумя переменными. Добавить конструктор с входными параметрами. Добавить конструктор, инициализирующий члены класса по умолчанию.
-     //
-     // class Program
-     // {
-     //     public static void Main(string[] args)
-     //     {
-     //         Exercise2 ex2 = new Exercise2();
-     //     }
-     // }
+     
+     class Program
+     {
+         public static void Main(string[] args)
+         {
+             Exercise2 ex2 = new Exercise2();
+         }
+     }
 
      public class Exercise2
      {
