@@ -40,6 +40,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Example.cs" />
+        <Compile Include="HomeWork1.cs" />
+        <Compile Include="ItProger (YouTube).cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="StringsClass.cs" />
